@@ -1,0 +1,7 @@
+.tableHeading{
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 5px;
+  background-color: #bbb;
+  margin-top: 20px;
+}

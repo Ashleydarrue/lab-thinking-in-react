@@ -1,0 +1,11 @@
+.eachrow{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 8px;
+  border-bottom: 1px solid #bbb;
+}
+
+.redrow{
+  color:red;
+}
+
